@@ -3,7 +3,7 @@ A choropleth and calendar visualization of active covid-19 cases in Calgary by c
 
 ## Live Demo
 Try out the live demo at the link below
-- [https://nielsontrung.github.io/calgary-covid-tracker/](https://nielsontrung.github.io/calgary-covid-tracker/){:target="_blank"}
+- [https://nielsontrung.github.io/calgary-covid-tracker/](https://nielsontrung.github.io/calgary-covid-tracker/)
 
 
 ## Data sets

@@ -1,6 +1,11 @@
 # Calgary Covid-19 Tracker
 A choropleth and calendar visualization of active covid-19 cases in Calgary by community. The choropleth map shows projected active cases in each community for the most recent date in the dataset. The calendar shows historical data for the total number of active cases in Calgary for the specific date.
 
+## Live Demo
+Try out the live demo at the link below
+- [https://nielsontrung.github.io/calgary-covid-tracker/](https://nielsontrung.github.io/calgary-covid-tracker/){:target="_blank"}
+
+
 ## Data sets
 Datasets for this visualization were collected from AHS https://www.alberta.ca/stats/covid-19-alberta-statistics.htm#data-export and the City  of Calgary's Open Data Portal https://data.calgary.ca/Demographics/Census-by-Community-2019/rkfr-buzb.
 
